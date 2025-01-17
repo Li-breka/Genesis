@@ -14,7 +14,7 @@ These concise lesson summaries were generated using AI. The original video lectu
 ---
 
 **Course Overview**  
-A comprehensive summary of all lessons is available [here](https://github.com/Li-breka/Genesis/blob/main/summary).
+A comprehensive summary of all lessons is available [here](https://github.com/Li-breka/Genesis/blob/main/summary.md).
 
 **Important:** While this overview offers a broad understanding, please refer to the individual lesson notes for detailed study and analysis.
 
