@@ -1,6 +1,6 @@
 # Table of Contents
 
-[Course Overview](https://github.com/Li-breka/Genesis/blob/main/summary)
+[Course Overview](https://github.com/Li-breka/Genesis/blob/main/summary.md)
 
 *   [Lesson 1](https://github.com/Li-breka/Genesis/blob/main/summaries/1.md)
 *   [Lesson 2](https://github.com/Li-breka/Genesis/blob/main/summaries/2.md)
