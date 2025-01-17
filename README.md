@@ -3,7 +3,8 @@
 **Course:** Genesis: Creation, Fall, Flood, Babel  
 **Lessons:** 1-85  
 **Year:** 2022  
-**Grade Taught:** 12th
+**Grade Taught:** 12th  
+**AI Rating:** 8/10  
 
 ---
 
