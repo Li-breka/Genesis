@@ -13,7 +13,7 @@ These concise lesson summaries were generated using AI. The original video lectu
 
 ---
 
-**Table Of Contents**
+**Table Of Contents**  
 The table of contents is located [here](https://github.com/Li-breka/Genesis/blob/main/table_of_contents.md)
 
 ---
